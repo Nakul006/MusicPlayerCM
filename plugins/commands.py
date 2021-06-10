@@ -66,11 +66,11 @@ You can also use /dplay <song name> to play a song from Deezer.</b>
 async def start(client, message):
     buttons = [
         [
-        InlineKeyboardButton('Channel ⚡', url='https://t.me/searchit00'),
-        InlineKeyboardButton('Movie Group 💬', url='https://t.me/searchit_group'),
+        InlineKeyboardButton('Channel ⚡', url='https://t.me/cinematoosNew'),
+        InlineKeyboardButton('Movie Group 💬', url='https://t.me/CM_Chats'),
     ],
     [
-        InlineKeyboardButton('👨🏼‍💻 Developer', url='https://t.me/Elonmusk_010'),
+        InlineKeyboardButton('👨🏼‍💻 Developer', url='https://t.me/Pablo_NK'),
         InlineKeyboardButton('🤖 Source', url='https://github.com/AUTOBOTS00/MusicPlayer'),
     ],
     [
@@ -87,11 +87,11 @@ async def start(client, message):
 async def show_help(client, message):
     buttons = [
         [
-            InlineKeyboardButton('Channel ⚡', url='https://t.me/searchit00'),
-            InlineKeyboardButton('Movie Group 💬', url='https://t.me/searchit_group'),
+            InlineKeyboardButton('Channel ⚡', url='https://t.me/CinematoosNew'),
+            InlineKeyboardButton('Movie Group 💬', url='https://t.me/CM_Chats'),
         ],
         [
-            InlineKeyboardButton('👨🏼‍💻 Developer', url='https://t.me/Elonmusk_010'),
+            InlineKeyboardButton('👨🏼‍💻 Developer', url='https://t.me/CM_Chats'),
             InlineKeyboardButton('🤖 Source', url='https://github.com/AUTOBOTS00/MusicPlayer'),
         ]
     ]
